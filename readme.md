@@ -14,7 +14,7 @@ pip install inspect-ai
 You can run the eval with
 
 ```bash
-inspect eval --model openai/gpt-4 --temperature 0
+inspect eval --model openai/gpt-4o --temperature 0
 ```
 
 and view the results via
